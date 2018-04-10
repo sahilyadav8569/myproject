@@ -1,1 +1,2 @@
-my first php page
+<php my first php page
+>
