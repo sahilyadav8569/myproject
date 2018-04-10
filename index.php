@@ -1,2 +1,4 @@
-<php my first php page
+<?php 
+echo "my first php page"
 
+?>
